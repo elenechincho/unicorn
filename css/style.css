@@ -1,0 +1,28 @@
+.headernav li{
+	display: inline-block;
+	margin-right: 30px;
+	text-transform: uppercase;
+
+}
+.headernav li a{
+	color:black;
+}
+.unicorn {
+	display: inline-block;
+}
+.header{
+	
+	position: relative;
+}
+.mtliani{
+	display: flex;
+	justify-content: space-between;
+	position: absolute;
+	top: 50%;
+	left:40%;
+	transform: translate(-50%, -50%);
+
+}
+
+
+
