@@ -50,6 +50,7 @@ a{
 nav {
   list-style-type: none;
 }
-body {
-	width: 100%;
+body{
+	overflow-x: hidden;
 }
+ 
